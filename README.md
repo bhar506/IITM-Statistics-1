@@ -34,3 +34,40 @@
   <li>Scatter plot - b/w two numerical variable</li>
   <li>relationship between categorical and numerical variable</li>
 </ul>
+<br/>
+<h2>Week-5 Permutation and Combinations</h2>
+<ul>
+  <li>Basic principles of counting</li>
+  <li>concept of factorials</li>
+  <li>counting with order and without order</li>
+</ul>
+<br/>
+<h2>Week-6-7 Probability</h2>
+<ul>
+  <li>Random Experiment</li>
+  <li>Sample space, events and random experiments</li>
+  <li>Simple Event and Compound Event</li>
+  <li>Conditional Probability</li>
+  <li>Dependent and Independent Events</li>
+  <li>Mutually Exclusive events</li>
+</ul>
+<br/>
+<h2>Week-8-9 Discrete Random Variable</h2>
+<ul>
+  <li>Random Variables</li>
+  <li>Types of random variable: discrete and continuous</li>
+  <li>Probability Mass Function</li>
+  <li>Cummalative Distributive Function</li>
+  <li>Exception and variance of a random variable</li>
+</ul>
+<br/>
+<h2>Week-10 Bionomial distribution</h2>
+<ul>
+  <li>Understanding bionomial distribution</li>
+</ul>
+<br/>
+<h2>Week-11-12 Continuous Distributions and Normal Distributions</h2>
+<ul>
+  <li>Probability Density Function</li>
+  <li>Normal Distribution</li>
+</ul>
