@@ -51,3 +51,6 @@
     A unit from which data are collected. Row represent cases. For each case, same attribute is recorded.
   </p>
 </ol>
+<p>
+  Each variable must have it's own column. Each observation must have it's own row.
+</p>
