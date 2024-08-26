@@ -24,3 +24,15 @@
     Subset/subgroup of population is known as sample. Sample must be as representative as possible.
   </p>
 </ol>
+<hr/>
+<h3>Purpose of Statistical Analysis</h3>
+<ol>
+  <li>
+    If the purpose of statistics is just to examine and explore the information for it's own intrinsic interest only, the   
+    study is descriptive. Descriptive statistics can be performed either on a sample or population.
+  </li>
+  <li>
+    If the purpose of the analysis is to draw conclusions about population based on the information obtained from sample.        Then the study is inferential
+  </li>
+</ol>
+<hr/>
