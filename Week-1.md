@@ -36,3 +36,7 @@
   </li>
 </ol>
 <hr/>
+<h3>Introduction and types of data</h3>
+<p>
+  Data are the facts and figures collected, analyzed and summarized for presentation and interpretation.
+</p>
