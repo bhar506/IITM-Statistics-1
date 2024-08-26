@@ -40,3 +40,14 @@
 <p>
   Data are the facts and figures collected, analyzed and summarized for presentation and interpretation.
 </p>
+<h4>Variables and Cases</h4>
+<ol>
+  <b><li>Variables</li></b>
+  <p>
+    A characteristic/attribute that varies across all units. Columns represent variables. For each variables, same type of       value is recorded.
+  </p>
+  <b><li>Cases</li></b>
+  <p>
+    A unit from which data are collected. Row represent cases. For each case, same attribute is recorded.
+  </p>
+</ol>
