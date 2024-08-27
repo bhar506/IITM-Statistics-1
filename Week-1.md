@@ -78,3 +78,29 @@
   <b><li>Cross Sectional</li></b>
   <p>Data recorded at the same time.</p>
 </ol>
+<hr/>
+<h3>Scales of measurement</h3>
+<ol>
+  <b><li>Nominal</li></b>
+  <p>
+    When data for a variable consist of labels or names used to identify the characteristic of an observation, the scale of      measurement is considered as nominal scale.
+    For eg name,gender, blood group etc.
+    Sometimes nominal data can be numerically coded. For eg we might code female as 1 and male as 0. 
+    <b>Nominal: Name categories without implying order</b>
+  </p>
+  <b><li>Ordinal</li></b>
+  <p>
+    Data exhibits the properties of nominal but here rank or order is meaningful. The scale of measurement is considered to      be as ordinal data.
+    <b>Named categories that can be ordered</b>
+  </p>
+  <b><li>Interval</li></b>
+  <p>
+    Data have all the properties of ordinal data and interval between the value is expressed in terms of a fixed unit of a      measure, then scale of measurement is called interval scale.Interval data are always numeric and can find out       
+    difference between two values. Ratio does not have any meaning here.
+    <b>Interval: Numeric values can be added or subtracted(no absolute zero)</b>
+  </p>
+  <b><li>Ratio</li></b>
+  <p>
+    Have all properties of interval but ratio is meaning ful here. Can perform arithmetic operation.
+  </p>
+</ol>
