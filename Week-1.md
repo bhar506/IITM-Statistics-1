@@ -54,3 +54,27 @@
 <p>
   Each variable must have it's own column. Each observation must have it's own row.
 </p>
+<hr/>
+<h3>Classification of Data</h3>
+<ol>
+  <b><li>Categorical</li></b>
+  <ul>
+    <li>Qualitative data</li>
+    <li>identifies group membership</li>
+  </ul>
+  <b><li>Numerical</li></b>
+  <ul>
+    <li>Quantitative</li>
+    <li>describe numerical properties of cases</li>
+    <li>Have measurement units</li>
+    <li>Numerical data can be further classified into discrete and continuous</li>
+  </ul>
+</ol>
+<hr/>
+<h3>Cross Sectional and Time Series</h3>
+<ol>
+  <b><li>Time Series</li></b>
+  <p>Data recorded over a period of time. Graph of a time series showing values in chronological order</p>
+  <b><li>Cross Sectional</li></b>
+  <p>Data recorded at the same time.</p>
+</ol>
