@@ -86,3 +86,9 @@
     </tr>
   </table>
 </p>
+<hr/>
+<h3>Charts of a categorical data</h3>
+<p>Most comman charts - bar chart and pie chart</p>
+<p>
+  A pie chart is a circle divided into pieces/wedges propotional to the relative frequency of qualitative data.
+</p>
